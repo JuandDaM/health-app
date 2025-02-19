@@ -1,1 +1,1 @@
-# healt-app
+# health-app
