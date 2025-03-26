@@ -14,7 +14,7 @@ export default function LoginScreen() {
             <Text> E-mail:</Text>
             <TextInput placeholder="Ingresa el dato: "></TextInput>
             <Text>Contraseña:</Text>
-            <TextInput  keyboardType="visible-password" placeholder="Ingresa la contraseña: ">
+            <TextInput   placeholder="Ingresa la contraseña: ">
             </TextInput>
         </View>
     );
